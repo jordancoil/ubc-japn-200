@@ -19,6 +19,10 @@ const IndexPage = () => (
       <li>
         <Link to="/food/">UBCのグルメ攻略</Link> <br />
       </li>
+
+      <li>
+        <Link to="/friends/">UBCで友だちとあそぶ</Link> <br />
+      </li>
     </ul>
 
 
