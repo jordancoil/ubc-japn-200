@@ -8,6 +8,9 @@ const SecondPage = () => (
   <Layout>
     <SEO title="UBCのグルメ攻略" />
     <h1>UBCのグルメ攻略</h1>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uRp3Qtzln5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <p>UBCへようこそ！いつもとは違った学び方や生活を楽しんでくださいね！UBCで食べられるお店をご紹介します。</p>
 
     <p><b>1. 食堂</b><br/>
