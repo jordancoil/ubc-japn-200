@@ -2,7 +2,6 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
@@ -22,6 +21,10 @@ const IndexPage = () => (
 
       <li>
         <Link to="/friends/">UBCで友だちとあそぶ</Link> <br />
+      </li>
+
+      <li>
+        <Link to="/sights/">UBCで観光に行きましょう</Link> <br />
       </li>
     </ul>
 
